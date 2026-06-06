@@ -1,5 +1,4 @@
-# Predicting Measles Outbreaks
-Team project: summer26-measles-outbreaks-predictions
+# Predicting Measles Outbreak
 
 This is a project for the Summer 2026 Erdős Institute Data Science program.
 
