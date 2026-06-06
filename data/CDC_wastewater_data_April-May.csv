@@ -1,0 +1,595 @@
+﻿Site,State/Territory,Counties Served,Population Served,Source,05/30/2026,05/23/2026,05/16/2026,05/09/2026,05/02/2026,04/25/2026,Date Updated,PathogenTarget
+ID:140,California,Sacramento,1480000,WastewaterSCAN,+,+,-,-,-,+,"June 04, 2026 3:40 AM",Measles virus
+ID:175,California,Santa Clara,236000,WastewaterSCAN,+,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:125,California,Merced,91000,WastewaterSCAN,+,+,+,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2689,Alaska,Bethel,6500,State_Territory,No Data,-,-,-,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:253,Colorado,Routt,43741,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:415,Illinois,Cook,3816,State_Territory,No Data,No Data,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:655,Louisiana,Orleans,50591,"CDC_Verily, WastewaterSCAN",No Data,No Data,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:741,Massachusetts,Middlesex,228285,CDC_Verily,No Data,No Data,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1067,Missouri,"Greene, Christian",151966,State_Territory,No Data,-,No Data,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1478,North Carolina,Mecklenburg,182501,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1481,North Carolina,Mecklenburg,82158,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1475,North Carolina,Mcdowell,8459,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1487,North Carolina,"Durham, Orange",108105,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1499,North Carolina,Wake,84189,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1461,North Carolina,Durham,142000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1489,North Carolina,Pitt,89616,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1453,North Carolina,Carteret,3500,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1501,North Carolina,Wake,550000,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1503,North Carolina,Wake,7776,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1476,North Carolina,Mecklenburg,68685,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1479,North Carolina,Mecklenburg,120000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1462,North Carolina,Forsyth,178000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1502,North Carolina,Wake,30655,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1752,Oregon,Washington,220000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2520,Oregon,Columbia,13739,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1748,Oregon,Umatilla,17500,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1753,Oregon,Washington,40000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1754,Oregon,Washington,9900,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1728,Oregon,Hood River,7800,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1720,Oregon,Clatsop,11326,State_Territory,No Data,No Data,-,No Data,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1755,Oregon,Washington,40000,State_Territory,No Data,-,+,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2570,Pennsylvania,Washington,45000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1778,Pennsylvania,Erie,200000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1762,Pennsylvania,Allegheny,48000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1824,South Carolina,Lexington,40000,State_Territory,No Data,No Data,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2611,South Carolina,Spartanburg,93014,State_Territory,No Data,No Data,No Data,No Data,No Data,+,"June 04, 2026 3:40 AM",Measles virus
+ID:2610,South Carolina,Spartanburg,6667,State_Territory,No Data,No Data,No Data,No Data,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2630,South Carolina,Spartanburg,3200,State_Territory,No Data,-,-,-,-,+,"June 04, 2026 3:40 AM",Measles virus
+ID:1818,South Carolina,Greenville,143531,State_Territory,No Data,No Data,No Data,No Data,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2660,South Carolina,Spartanburg,4500,State_Territory,No Data,-,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1892,Texas,Harris,109414,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2464,Texas,Gaines,7500,State_Territory,No Data,No Data,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1875,Texas,Harris,16030,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1873,Texas,Harris,37359,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2696,Texas,Presidio,5000,State_Territory,No Data,-,No Data,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1878,Texas,Harris,9375,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1876,Texas,Harris,4170,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1884,Texas,Harris,4010,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2609,Texas,Travis,238461,State_Territory,No Data,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1904,Texas,Harris,20758,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1882,Texas,"Montgomery, Harris",52055,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1885,Texas,Harris,12892,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1865,Texas,"Fort Bend, Harris",28742,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1879,Texas,Harris,16804,State_Territory,No Data,No Data,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1888,Texas,Harris,95600,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1891,Texas,Harris,109414,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1896,Texas,Harris,59188,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1901,Texas,Harris,85129,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1877,Texas,Harris,40689,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1886,Texas,Harris,33102,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1874,Texas,Harris,3825,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1903,Texas,Harris,3623,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1899,Texas,Harris,33645,State_Territory,No Data,No Data,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2277,Texas,Hidalgo,70000,State_Territory,No Data,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1890,Texas,Harris,20608,State_Territory,No Data,No Data,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2298,Texas,Victoria,65800,State_Territory,No Data,-,No Data,No Data,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1880,Texas,Harris,22275,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1893,Texas,Harris,32485,State_Territory,No Data,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1889,Texas,Harris,5497,State_Territory,No Data,No Data,-,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1883,Texas,Harris,20161,State_Territory,No Data,No Data,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1953,Utah,Utah,12510,State_Territory,No Data,+,+,+,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1940,Utah,Salt Lake,254971,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1948,Utah,Uintah,29513,State_Territory,No Data,+,+,+,+,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1937,Utah,Salt Lake,89507,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1954,Utah,Utah,35840,State_Territory,No Data,+,+,+,+,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1927,Utah,Carbon,17312,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1946,Utah,Tooele,36244,State_Territory,No Data,-,+,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1923,Utah,Box Elder,21443,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1938,Utah,"Utah, Salt Lake",94484,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1939,Utah,Salt Lake,209645,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1951,Utah,Utah,21231,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1956,Utah,Wasatch,19936,State_Territory,No Data,+,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1944,Utah,Summit,24738,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1928,Utah,Davis,64533,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1949,Utah,Utah,112901,State_Territory,No Data,-,-,+,+,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1959,Utah,Washington,24970,State_Territory,No Data,-,+,+,+,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1930,Utah,Davis,84981,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1960,Utah,Washington,92047,State_Territory,No Data,-,-,-,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1955,Utah,Utah,253112,State_Territory,No Data,-,+,+,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1952,Utah,Utah,53313,State_Territory,No Data,+,+,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1957,Utah,Wasatch,5806,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1932,Utah,Duchesne,6790,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1926,Utah,Cache,94005,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1924,Utah,Box Elder,12451,State_Territory,No Data,+,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1929,Utah,"Weber, Davis",228700,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1934,Utah,Iron,32451,State_Territory,No Data,+,+,+,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1933,Utah,"San Juan, Grand",9896,State_Territory,No Data,+,+,-,+,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1925,Utah,Cache,9095,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1945,Utah,Summit,7096,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1931,Utah,Davis,21872,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1961,Utah,"Weber, Davis",208850,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2027,Virginia,"Bedford City, Botetourt, Roanoke, Bland, Salem, Roanoke City, Bedford",300000,State_Territory,No Data,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1987,Virginia,"Frederick, Winchester City",60000,CDC_Verily,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1995,Virginia,Loudoun,300000,State_Territory,No Data,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2028,Virginia,"Portsmouth City, Isle Of Wight, Chesapeake City, Suffolk City",197608,State_Territory,No Data,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2170,Wisconsin,"Dodge, Washington",16000,State_Territory,No Data,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2181,Wyoming,Laramie,74600,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2182,Wyoming,Sheridan,19000,"CDC_Verily, State_Territory",No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2183,Wyoming,Sweetwater,12000,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2180,Wyoming,Carbon,8298,State_Territory,No Data,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:9,Alabama,Lee,70000,CDC_Verily,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:4,Alabama,Jefferson,30000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:8,Alabama,Jefferson,95000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:6,Alabama,Jefferson,225000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:5,Alabama,Jefferson,77000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:7,Alabama,Jefferson,200000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2340,Alaska,Fairbanks North Star,92000,"CDC_Verily, State_Territory",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:16,Alaska,Juneau,22000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:15,Alaska,Juneau,12000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:13,Alaska,Anchorage,220000,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:14,Alaska,Anchorage,23000,"CDC_Verily, State_Territory",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:71,Arkansas,Greene,25000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:68,Arkansas,Benton,19000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:69,Arkansas,Boone,14000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:81,Arkansas,Pulaski,23812,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:80,Arkansas,Pulaski,30377,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:83,Arkansas,Pulaski,18463,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:70,Arkansas,Garland,38000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:162,California,San Luis Obispo,14465,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:93,California,Alameda,60000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:184,California,Sonoma,237800,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:138,California,Riverside,350000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:130,California,Napa,83300,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:176,California,Santa Clara,1500000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:143,California,San Bernardino,890000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2365,California,Solano,155000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:194,California,Yolo,59000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:114,California,Los Angeles,3500000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:164,California,San Luis Obispo,31037,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2453,California,Madera,60000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:161,California,San Luis Obispo,15000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:112,California,Los Angeles,200000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2347,California,Santa Barbara,97000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:118,California,Marin,104250,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:178,California,Santa Cruz,94000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2199,California,Nevada,13754,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:99,California,Contra Costa,102000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:166,California,San Luis Obispo,39000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:145,California,San Diego,2200000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:186,California,Sonoma,28000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:160,California,San Luis Obispo,6031,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:169,California,San Mateo,27000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:120,California,Marin,30000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:171,California,Santa Barbara,69290,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:126,California,Mono,8200,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:190,California,Ventura,250000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2571,California,Alameda,342000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:92,California,Alameda,229476,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:128,California,Monterey,16000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:101,California,El Dorado,30000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:121,California,Marin,53000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:180,California,"Santa Cruz, Monterey",60000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:147,California,"San Francisco, San Mateo",250000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:187,California,Stanislaus,230000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:170,California,San Mateo,199000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2346,California,El Dorado,125000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2601,California,Alameda,95000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2573,California,Alameda,160000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2572,California,Alameda,150000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:141,California,San Benito,43000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:168,California,San Mateo,150000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:155,California,San Joaquin,68000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:177,California,Santa Cruz,164000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:115,California,"Ventura, Los Angeles",75000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:113,California,"Ventura, Los Angeles",4000000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:188,California,Stanislaus,86000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:139,California,Riverside,91765,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:148,California,"San Francisco, San Mateo",750000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:97,California,Contra Costa,495000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:183,California,Solano,121000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:173,California,Santa Clara,153000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2348,California,Placer,127000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:157,California,San Joaquin,29000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:174,California,Santa Clara,110338,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:127,California,Monterey,262000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:193,California,Yolo,68000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:179,California,Santa Cruz,70000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:252,Colorado,Pueblo,96514,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:264,Colorado,Weld,83319,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:224,Colorado,El Paso,303855,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:242,Colorado,Mesa,89286,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:198,Colorado,Jefferson,345453,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:223,Colorado,El Paso,102204,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:213,Colorado,Douglas,60571,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:232,Colorado,La Plata,23429,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:195,Colorado,"Arapahoe, Adams",268003,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:199,Colorado,Denver,709904,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:214,Colorado,Douglas,35000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:255,Colorado,San Miguel,15000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:246,Colorado,Otero,29643,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:229,Colorado,Garfield,16714,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:205,Colorado,Boulder,89383,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:203,Colorado,Arapahoe,247443,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:215,Colorado,Douglas,25000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:260,Colorado,Summit,35643,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:235,Colorado,Larimer,92126,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:201,Colorado,Alamosa,18364,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2364,Colorado,Adams,40071,State_Territory,-,-,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:249,Colorado,Pitkin,5500,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:272,Connecticut,Fairfield,52268,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:270,Connecticut,Fairfield,45878,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:271,Connecticut,Fairfield,72914,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:268,Connecticut,Fairfield,140000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:278,Connecticut,New London,41000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:290,Delaware,Sussex,7000,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:284,Delaware,Sussex,7000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:283,Delaware,New Castle,539000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:281,Delaware,New Castle,17145,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:287,Delaware,Sussex,4392,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:288,Delaware,Sussex,4050,State_Territory,-,-,+,-,-,+,"June 04, 2026 3:40 AM",Measles virus
+ID:289,Delaware,Sussex,75000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:286,Delaware,Kent,130000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:300,District of Columbia,"Fairfax, Prince Georges, District Of Columbia, Loudoun, Montgomery, Arlington",1600000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:307,Florida,Leon,212065,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:313,Florida,Orange,277823,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:324,Florida,"Orange, Seminole",95000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:318,Florida,Pinellas,89847,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:312,Florida,Orange,80000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:304,Florida,Escambia,207000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:320,Florida,Pinellas,47790,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:308,Florida,Miami-Dade,829725,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:316,Florida,"Martin, Palm Beach",90000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:314,Florida,Orange,66690,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:315,Florida,Orange,463672,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:319,Florida,Pinellas,94218,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:309,Florida,Miami-Dade,776150,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,+,"June 04, 2026 3:40 AM",Measles virus
+ID:338,Georgia,Fulton,190000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:341,Georgia,Fulton,70887,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:326,Georgia,"Cherokee, Fulton",12818,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:346,Georgia,"Muscogee, Chattahoochee",278000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:339,Georgia,Fulton,600000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:340,Georgia,Fulton,105160,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:337,Georgia,Fulton,189593,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:336,Georgia,Fulton,84486,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2188,Guam,Guam,64247,CDC_Verily,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2187,Guam,Guam,14535,CDC_Verily,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2186,Guam,Guam,70486,CDC_Verily,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:357,Hawaii,Hawaii,32604,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:362,Hawaii,Honolulu,19000,CDC_Verily,-,-,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:367,Hawaii,Maui,46800,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:368,Hawaii,Maui,50700,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:369,Hawaii,Maui,58900,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:358,Hawaii,Honolulu,101000,CDC_Verily,-,-,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:359,Hawaii,Honolulu,300000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:360,Hawaii,Honolulu,400000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:361,Hawaii,Honolulu,47000,CDC_Verily,-,-,No Data,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:375,Idaho,Bannock,74708,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:386,Idaho,Kootenai,50540,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2287,Idaho,Latah,25500,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:372,Idaho,Ada,206629,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:370,Idaho,Ada,97237,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,+,"June 04, 2026 3:40 AM",Measles virus
+ID:425,Illinois,Cook,77799,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:416,Illinois,Cook,125995,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:414,Illinois,Cook,23475,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:441,Illinois,Du Page,63000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:438,Illinois,Du Page,86000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:427,Illinois,Cook,29370,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:428,Illinois,Cook,467536,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:424,Illinois,Cook,83455,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:421,Illinois,Cook,721207,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:510,Indiana,Hamilton,86000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:505,Indiana,Clark,25000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:523,Indiana,Monroe,56090,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:529,Indiana,St Joseph,130000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:506,Indiana,Clark,25000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:541,Iowa,Wapello,25529,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:543,Iowa,"Dakota, Woodbury, Union",110000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:533,Iowa,Clinton,29300,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:536,Iowa,Johnson,23000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:540,Iowa,Muscatine,24400,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:535,Iowa,Johnson,75000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:539,Iowa,Marshall,27400,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:553,Kansas,Shawnee,40000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:557,Kansas,Wyandotte,15000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:552,Kansas,Saline,47000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:555,Kansas,Wyandotte,35000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:545,Kansas,Douglas,80000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:556,Kansas,Wyandotte,90000,WastewaterSCAN,-,-,-,+,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:554,Kansas,Shawnee,95000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:568,Kentucky,Jefferson,426007,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:639,Louisiana,Orleans,50591,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:698,Maine,Aroostook,5000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:709,Maine,Lincoln,2222,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:703,Maine,Cumberland,6000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:708,Maine,Knox,7000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:716,Maine,Sagadahoc,8700,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:712,Maine,Penobscot,40000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:710,Maine,Oxford,1500,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:700,Maine,Cumberland,65000,WastewaterSCAN,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:722,Maine,York,20000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:702,Maine,Cumberland,8500,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:694,Maine,Androscoggin,60000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:727,Maryland,Anne Arundel,91838,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2440,Maryland,Montgomery,5354,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:731,Maryland,Anne Arundel,78365,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2517,Maryland,Prince Georges,55848,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:726,Maryland,Anne Arundel,89319,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:728,Maryland,Anne Arundel,11802,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:736,Maryland,Saint Marys,55000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:729,Maryland,Anne Arundel,150078,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:730,Maryland,Anne Arundel,22660,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:737,Maryland,Washington,90000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2441,Maryland,Montgomery,208364,CDC_Verily,-,-,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:734,Maryland,Garrett,3000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:760,Massachusetts,Worcester,250000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:742,Massachusetts,"Suffolk, Middlesex, Worcester, Plymouth, Norfolk",2400000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:740,Massachusetts,Hampden,55000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:895,Michigan,Macomb,140000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:845,Michigan,Jackson,90000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:954,Michigan,Washtenaw,125000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:833,Michigan,Isabella,21690,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:886,Michigan,Kent,75000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:798,Michigan,Grand Traverse,30623,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1028,Minnesota,"Sherburne, Benton, Stearns",120000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1003,Minnesota,Goodhue,16000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:993,Minnesota,"Blue Earth, Nicollet",70000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1017,Minnesota,Olmsted,120000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1033,Mississippi,Jackson,19008,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1034,Mississippi,Jackson,34333,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1110,Missouri,"Platte, Clay",12855,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1081,Missouri,Jefferson,48000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1074,Missouri,"Johnson, Jackson, Cass",25000,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1057,Missouri,Clay,12000,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1055,Missouri,"Platte, Clay",76759,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1056,Missouri,"Platte, Clay",13940,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1075,Missouri,"Johnson, Jackson, Wyandotte",61250,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1066,Missouri,Greene,22818,State_Territory,-,-,No Data,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1073,Missouri,"Johnson, Jackson, Clay, Cass",25000,State_Territory,-,-,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1147,Montana,Lewis And Clark,37125,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1144,Montana,Hill,10000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1150,Montana,Silver Bow,35000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1146,Montana,Lewis And Clark,2273,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1162,Nebraska,Lancaster,100000,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1164,Nebraska,Lancaster,200000,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1181,Nevada,Washoe,350000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2470,Nevada,Clark,23500,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2450,Nevada,Washoe,28000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2468,Nevada,Elko,20800,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1182,Nevada,Carson City,60000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1179,Nevada,Clark,1250000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2557,Nevada,Clark,15023,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2442,New Hampshire,Strafford,30000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1198,New Hampshire,Sullivan,6000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2695,New Hampshire,Rockingham,12500,CDC_Verily,-,No Data,No Data,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1183,New Hampshire,"Cumberland, Oxford, Belknap, Carroll",6500,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1204,New Jersey,Cumberland,50000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1215,New Jersey,Monmouth,52672,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1206,New Jersey,"Essex, Hudson, Passaic, Union, Bergen",1500000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2637,New Jersey,Somerset,130000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2636,New Jersey,Monmouth,100000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1217,New Jersey,Monmouth,50000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1226,New Mexico,"Sandoval, Bernalillo",650000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1243,New Mexico,Santa Fe,87000,CDC_Verily,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1431,New York,Tompkins,90000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1378,New York,Oswego,30000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1469,North Carolina,"Forsyth, Guilford, Randolph, Davidson",116390,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1450,North Carolina,"Buncombe, Henderson",173000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1470,North Carolina,"Northampton, Halifax",14320,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1473,North Carolina,"Greene, Lenoir",25000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1451,North Carolina,Cabarrus,6898,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1484,North Carolina,New Hanover,67743,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1483,North Carolina,New Hanover,58361,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1491,North Carolina,Rowan,21000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1504,North Carolina,Watauga,26000,CDC_Verily,-,-,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1459,North Carolina,Cumberland,151589,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1495,North Carolina,"Swain, Jackson",10000,CDC_Verily,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1505,North Carolina,Wilson,49384,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1490,North Carolina,Rowan,32000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1486,North Carolina,"Durham, Orange",78141,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1457,North Carolina,Wake,75886,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1485,North Carolina,Onslow,41819,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1468,North Carolina,Guilford,135821,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1500,North Carolina,Wake,74331,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1492,North Carolina,Scotland,15527,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1460,North Carolina,"Pender, Duplin",10000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1472,North Carolina,Jackson,13296,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1452,North Carolina,Cabarrus,226400,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1463,North Carolina,Forsyth,92000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1678,Ohio,"Portage, Summit",365000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1622,Ohio,Mahoning,174000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1701,Oklahoma,Garfield,50350,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1738,Oregon,Linn,57785,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1722,Oregon,Coos,9975,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1736,Oregon,Lincoln,10400,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1716,Oregon,Benton,58856,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1740,Oregon,Marion,26273,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1735,Oregon,Lincoln,8865,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1729,Oregon,Jackson,21105,State_Territory,-,-,-,+,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1742,Oregon,Marion,10520,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1719,Oregon,"Clackamas, Washington",26597,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1732,Oregon,Klamath,20858,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1743,Oregon,Marion,10840,State_Territory,-,-,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2243,Oregon,Tillamook,27748,State_Territory,-,No Data,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2521,Oregon,Deschutes,92850,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1751,Oregon,Wasco,15276,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1744,Oregon,"Multnomah, Washington",662235,State_Territory,-,-,-,-,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1747,Oregon,"Hood River, Umatilla",18775,State_Territory,-,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1731,Oregon,Josephine,37725,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1757,Oregon,Yamhill,34615,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1746,Oregon,Polk,16555,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1734,Oregon,Lane,235155,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1717,Oregon,Clackamas,14206,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1745,Oregon,"Multnomah, Clackamas, Washington",40000,State_Territory,-,-,-,-,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1726,Oregon,Douglas,30000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1733,Oregon,Lane,8925,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1741,Oregon,Marion,229000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1779,Pennsylvania,Franklin,67000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2680,Pennsylvania,Erie,4295,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1774,Pennsylvania,Cumberland,25000,State_Territory,-,-,+,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1791,Pennsylvania,Montgomery,30000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1776,Pennsylvania,Delaware,6800,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1787,Pennsylvania,Mercer,16000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1789,Pennsylvania,Monroe,4000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1790,Pennsylvania,Montgomery,13000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2664,Pennsylvania,Lancaster,125000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1773,Pennsylvania,Chester,10500,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1761,Pennsylvania,Allegheny,7000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1781,Pennsylvania,Lackawanna,15700,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1785,Pennsylvania,Mckean,14194,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1760,Pennsylvania,Allegheny,900000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1777,Pennsylvania,Delaware,220000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1765,Pennsylvania,Allegheny,43482,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1786,Pennsylvania,"Mercer, Trumbull",19000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1767,Pennsylvania,"Northampton, Bucks",55000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1772,Pennsylvania,Chester,13500,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1788,Pennsylvania,Monroe,25000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1780,Pennsylvania,Indiana,28809,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1768,Pennsylvania,"Butler, Allegheny",45000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1775,Pennsylvania,Dauphin,125000,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2569,Pennsylvania,Luzerne,172000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2631,Pennsylvania,Montgomery,17000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1792,Pennsylvania,Montgomery,13000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1784,Pennsylvania,Lehigh,200000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1803,Pennsylvania,York,85000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1805,Rhode Island,Bristol,11500,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1804,Rhode Island,Bristol,21100,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2339,Rhode Island,"Worcester, Providence, Norfolk",43000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2232,Rhode Island,Washington,5000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1807,Rhode Island,Kent,30000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2248,South Carolina,"Berkeley, Dorchester, Charleston",140000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2286,South Carolina,Horry,38000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1825,South Carolina,Richland,60000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2632,South Carolina,"Greenville, Spartanburg",30000,State_Territory,-,-,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1816,South Carolina,Georgetown,12000,CDC_Verily,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2585,South Carolina,Anderson,22410,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1828,South Carolina,York,88000,State_Territory,-,-,-,-,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2206,South Carolina,Lancaster,10000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2595,South Carolina,Spartanburg,25000,State_Territory,-,-,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1820,South Carolina,Greenwood,48000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2583,South Carolina,Pickens,9000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2592,South Carolina,Orangeburg,11000,State_Territory,-,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1819,South Carolina,Greenwood,12000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2584,South Carolina,Anderson,30000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1817,South Carolina,Georgetown,30000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1829,South Dakota,Beadle,14000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1830,South Dakota,"Lincoln, Minnehaha",219000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1832,South Dakota,Yankton,20000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1838,Tennessee,Shelby,400000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1837,Tennessee,"Catoosa, Walker, Dade, Hamilton",400000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1849,Texas,Dallas,1000000,CDC_Verily,-,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2635,Texas,Travis,596153,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2275,Texas,Hardin,34000,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1922,Texas,Wichita,90000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2445,Texas,Hays,80000,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1921,Texas,Webb,140000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1908,Texas,Montgomery,65000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1919,Texas,Webb,120000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2325,Texas,Henderson,13503,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2281,Texas,Taylor,125000,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1906,Texas,Mclennan,203344,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2274,Texas,Anderson,19372,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1847,Texas,Cooke,17300,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1905,Texas,Harris,8610,State_Territory,-,-,-,No Data,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1897,Texas,Harris,97918,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1898,Texas,"Fort Bend, Harris",20920,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1867,Texas,Galveston,115000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1871,Texas,Harris,70900,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2686,Texas,Denton,76500,State_Territory,-,-,No Data,No Data,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2608,Texas,Dallas,3000000,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1859,Texas,"Kaufman, Collin, Dallas",370000,CDC_Verily,-,No Data,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1855,Texas,Dallas,270000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2386,Texas,Brazos,58250,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1881,Texas,Harris,124000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1894,Texas,Harris,293227,State_Territory,-,-,-,-,No Data,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1909,Texas,Montgomery,70000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1866,Texas,Galveston,15000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2276,Texas,Hays,18000,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2410,Texas,Hidalgo,16782,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1913,Texas,Tarrant,1000000,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1868,Texas,Galveston,115000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1912,Texas,"Randall, Potter",60000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1858,Texas,Dallas,2600000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1917,Texas,Webb,30000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1869,Texas,Harris,551150,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1860,Texas,Denton,166774,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1848,Texas,Dallas,200000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1843,Texas,Andrews,13502,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1870,Texas,Harris,117968,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1911,Texas,"Randall, Potter",140000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1857,Texas,"Kaufman, Dallas",186000,"CDC_Verily, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1856,Texas,Dallas,630000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2685,Texas,Denton,105527,State_Territory,-,-,No Data,No Data,-,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2629,Texas,Travis,158974,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2278,Texas,Jefferson,112193,State_Territory,-,-,No Data,No Data,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1935,Utah,Salt Lake,515494,"State_Territory, WastewaterSCAN",-,-,-,-,+,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1950,Utah,Utah,102624,"State_Territory, WastewaterSCAN",-,-,-,-,-,+,"June 04, 2026 3:40 AM",Measles virus
+ID:1965,Vermont,Chittenden,30000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1975,Vermont,Washington,10100,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1976,Vermont,Windsor,6000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1967,Vermont,Chittenden,25000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2350,Vermont,Addison,9000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1966,Vermont,Chittenden,16000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2022,Virginia,"Virginia Beach City, Norfolk City, Portsmouth City, Chesapeake City",192347,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1985,Virginia,"Prince William, Fairfax, Fauquier, Loudoun, Fairfax City, Manassas City, Manassas Park City",350000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2021,Virginia,"Hampton City, Newport News City, York, James City",141543,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1993,Virginia,"Martinsville City, Henry",63000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1994,Virginia,"Newport News City, York, New Kent, Williamsburg City, James City",69059,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2003,Virginia,"Harrisonburg City, Rockingham",81000,State_Territory,-,-,No Data,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2020,Virginia,"Hampton City, Newport News City, York",118497,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2016,Virginia,"Albemarle, Charlottesville City",118266,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2002,Virginia,"Radford, Montgomery, Pulaski",70000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1988,Virginia,Frederick,16563,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2014,Virginia,"Hampton City, Newport News City, York, Gloucester, Mathews, Poquoson City",99112,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1979,Virginia,Alleghany,4000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2030,Virginia,"Virginia Beach City, Chesapeake City",530848,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1982,Virginia,"Fairfax, Alexandria City, Arlington, Falls Church City",232965,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2006,Virginia,Stafford,44000,"State_Territory, WastewaterSCAN",-,+,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2005,Virginia,"Stafford, Prince William",100000,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2023,Virginia,Norfolk City,78322,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1998,Virginia,Montgomery,52500,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2015,Virginia,"Fairfax, Alexandria City",300000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2000,Virginia,"Cumberland, Prince Edward",12390,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2025,Virginia,Petersburg City,33458,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:1978,Virginia,Alleghany,15000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2001,Virginia,"Prince William, Fairfax",165901,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2026,Virginia,"Henrico, Richmond City, Goochland",225000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2009,Virginia,Washington,7300,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1992,Virginia,Henrico,330000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:1986,Virginia,Franklin,5000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2019,Virginia,"Bedford City, Lynchburg City, Amherst, Bedford, Campbell",220000,State_Territory,-,-,-,No Data,No Data,No Data,"June 04, 2026 3:40 AM",Measles virus
+ID:2061,Washington,Snohomish,10150,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2087,West Virginia,Ohio,100000,WastewaterSCAN,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2125,Wisconsin,Fond Du Lac,65000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2122,Wisconsin,Douglas,28000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2164,Wisconsin,Vernon,4400,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2162,Wisconsin,Sheboygan,70000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2104,Wisconsin,Ashland,8200,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2141,Wisconsin,"Milwaukee, Ozaukee",470007,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2131,Wisconsin,Juneau,4400,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2142,Wisconsin,"Milwaukee, Ozaukee, Racine, Waukesha, Washington",615934,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2133,Wisconsin,La Crosse,85000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2123,Wisconsin,Dunn,16000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2107,Wisconsin,Brown,43000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2174,Wisconsin,Waupaca,4500,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2156,Wisconsin,Rock,63500,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2177,Wisconsin,Winnebago,78300,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2157,Wisconsin,Saint Croix,19680,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2108,Wisconsin,"Kewaunee, Brown",189000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2146,Wisconsin,"Outagamie, Winnebago, Calumet",72810,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2172,Wisconsin,"Waukesha, Jefferson",22000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2171,Wisconsin,Waukesha,51000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2151,Wisconsin,"Saint Croix, Pierce",15900,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2112,Wisconsin,Columbia,11000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2129,Wisconsin,Jackson,5000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2113,Wisconsin,Dane,424000,"CDC_Verily, State_Territory",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2127,Wisconsin,Green,11000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2119,Wisconsin,Dane,10757,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2175,Wisconsin,Waupaca,8000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2154,Wisconsin,Racine,139000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2111,Wisconsin,Columbia,3100,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2132,Wisconsin,Kenosha,122000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2159,Wisconsin,Sauk,13000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2207,Wisconsin,Grant,4264,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2167,Wisconsin,Walworth,30000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2138,Wisconsin,Marathon,44000,"State_Territory, WastewaterSCAN",-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2139,Wisconsin,Marinette,11000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2152,Wisconsin,Portage,27000,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2178,Wisconsin,"Marathon, Wood",19300,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2135,Wisconsin,Manitowoc,34500,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2140,Wisconsin,Marinette,3500,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2124,Wisconsin,"Chippewa, Eau Claire",77714,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2130,Wisconsin,"Dodge, Jefferson",23660,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2134,Wisconsin,Lincoln,9700,State_Territory,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
+ID:2184,Wyoming,Teton,13000,CDC_Verily,-,-,-,-,-,-,"June 04, 2026 3:40 AM",Measles virus
